@@ -7,5 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="postgresql-9.1-901-1.jdbc4" level="project" />
+    <orderEntry type="library" name="3.5" level="project" />
+    <orderEntry type="library" name="checker-qual-3.5.0" level="project" />
+    <orderEntry type="library" name="postgresql-42.2.23" level="project" />
   </component>
 </module>
